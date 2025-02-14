@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Overview](#Project-Overview)
-- [Data Analysis Using SQL](#SQL-Analysis)
+- [Data Analysis Using SQL](#Data-Analysis-Using-SQL)
 
 # Adidas Sales Analysis
 
