@@ -1,7 +1,7 @@
 # KickStarter-Analysis
 
-## Table of Content
-- [Project Overview](#project-overview)
+## Table of Contents
+- [Project Overview](#Project-Overview)
 - [Data Analysis Using SQL](#SQL-Analysis)
 
 # Adidas Sales Analysis
